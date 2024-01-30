@@ -111,8 +111,8 @@ id: Suriname
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Suriname//
-markerFolder: ./Suriname/
+geojsonFolder: .//
+markerFolder: ./
 ```
 
 [name-en::Suriname] 
