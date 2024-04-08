@@ -131,8 +131,10 @@ Continent :: [[South-America]]
 Capital :: [[Suriname/Counties/Paramaribo/City/Paramaribo]]  
 [Alcohol-l::6.1] 
 [Language-Id::] 
-[geo-lon::-55.17] 
-[geo-lat::5.86] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-55.17] 
+[has_place_latitude::5.86] 
 
 
 
