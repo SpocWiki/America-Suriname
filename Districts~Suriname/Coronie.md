@@ -40,11 +40,16 @@ markerFolder: ./Coronie/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~South/Suriname/Counties/Coronie|Coronie]] 
-- [[../../../../../../_public/geo/Continent/America~South/Suriname/Counties/Coronie.public|Coronie.public]] 
-- [[../../../../../../_internal/geo/Continent/America~South/Suriname/Counties/Coronie.internal|Coronie.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~South/Suriname/Counties/Coronie.protect|Coronie.protect]] 
-- [[../../../../../../_private/geo/Continent/America~South/Suriname/Counties/Coronie.private|Coronie.private]] 
-- [[../../../../../../_personal/geo/Continent/America~South/Suriname/Counties/Coronie.personal|Coronie.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~South/Suriname/Counties/Coronie.secret|Coronie.secret]] 
+
+### [Coronie.public](/_public/\Earth\Continent\America~South\Suriname\Districts~SurinameCoronie.public.md) 
+
+### [Coronie.internal](/_internal/\Earth\Continent\America~South\Suriname\Districts~SurinameCoronie.internal.md) 
+
+### [Coronie.protect](/_protect/\Earth\Continent\America~South\Suriname\Districts~SurinameCoronie.protect.md) 
+
+### [Coronie.private](/_private/\Earth\Continent\America~South\Suriname\Districts~SurinameCoronie.private.md) 
+
+### [Coronie.personal](/_personal/\Earth\Continent\America~South\Suriname\Districts~SurinameCoronie.personal.md) 
+
+### [Coronie.secret](/_secret/\Earth\Continent\America~South\Suriname\Districts~SurinameCoronie.secret.md)
 

@@ -40,11 +40,16 @@ markerFolder: ./Wanica/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~South/Suriname/Counties/Wanica|Wanica]] 
-- [[../../../../../../_public/geo/Continent/America~South/Suriname/Counties/Wanica.public|Wanica.public]] 
-- [[../../../../../../_internal/geo/Continent/America~South/Suriname/Counties/Wanica.internal|Wanica.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~South/Suriname/Counties/Wanica.protect|Wanica.protect]] 
-- [[../../../../../../_private/geo/Continent/America~South/Suriname/Counties/Wanica.private|Wanica.private]] 
-- [[../../../../../../_personal/geo/Continent/America~South/Suriname/Counties/Wanica.personal|Wanica.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~South/Suriname/Counties/Wanica.secret|Wanica.secret]] 
+
+### [Wanica.public](/_public/\Earth\Continent\America~South\Suriname\Districts~SurinameWanica.public.md) 
+
+### [Wanica.internal](/_internal/\Earth\Continent\America~South\Suriname\Districts~SurinameWanica.internal.md) 
+
+### [Wanica.protect](/_protect/\Earth\Continent\America~South\Suriname\Districts~SurinameWanica.protect.md) 
+
+### [Wanica.private](/_private/\Earth\Continent\America~South\Suriname\Districts~SurinameWanica.private.md) 
+
+### [Wanica.personal](/_personal/\Earth\Continent\America~South\Suriname\Districts~SurinameWanica.personal.md) 
+
+### [Wanica.secret](/_secret/\Earth\Continent\America~South\Suriname\Districts~SurinameWanica.secret.md)
 

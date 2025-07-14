@@ -135,11 +135,17 @@ Capital :: [[Suriname/Counties/Paramaribo/City/Paramaribo]]
 [has_place_latitude::5.86] 
 
 
-
 ## Confidential Links & Embeds: 
-- [[Suriname|Suriname]] 
-- [[../../../../_internal/geo/Continent/America~South/Suriname.internal|Suriname.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Suriname.protect|Suriname.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Suriname.private|Suriname.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Suriname.personal|Suriname.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Suriname.secret|Suriname.secret]] 
+
+### [ReadMe.public](/_public/\Earth\Continent\America~South\SurinameReadMe.public.md) 
+
+### [ReadMe.internal](/_internal/\Earth\Continent\America~South\SurinameReadMe.internal.md) 
+
+### [ReadMe.protect](/_protect/\Earth\Continent\America~South\SurinameReadMe.protect.md) 
+
+### [ReadMe.private](/_private/\Earth\Continent\America~South\SurinameReadMe.private.md) 
+
+### [ReadMe.personal](/_personal/\Earth\Continent\America~South\SurinameReadMe.personal.md) 
+
+### [ReadMe.secret](/_secret/\Earth\Continent\America~South\SurinameReadMe.secret.md)
+

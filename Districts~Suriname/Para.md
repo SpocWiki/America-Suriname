@@ -40,11 +40,16 @@ markerFolder: ./Para/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~South/Suriname/Counties/Para|Para]] 
-- [[../../../../../../_public/geo/Continent/America~South/Suriname/Counties/Para.public|Para.public]] 
-- [[../../../../../../_internal/geo/Continent/America~South/Suriname/Counties/Para.internal|Para.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~South/Suriname/Counties/Para.protect|Para.protect]] 
-- [[../../../../../../_private/geo/Continent/America~South/Suriname/Counties/Para.private|Para.private]] 
-- [[../../../../../../_personal/geo/Continent/America~South/Suriname/Counties/Para.personal|Para.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~South/Suriname/Counties/Para.secret|Para.secret]] 
+
+### [Para.public](/_public/\Earth\Continent\America~South\Suriname\Districts~SurinamePara.public.md) 
+
+### [Para.internal](/_internal/\Earth\Continent\America~South\Suriname\Districts~SurinamePara.internal.md) 
+
+### [Para.protect](/_protect/\Earth\Continent\America~South\Suriname\Districts~SurinamePara.protect.md) 
+
+### [Para.private](/_private/\Earth\Continent\America~South\Suriname\Districts~SurinamePara.private.md) 
+
+### [Para.personal](/_personal/\Earth\Continent\America~South\Suriname\Districts~SurinamePara.personal.md) 
+
+### [Para.secret](/_secret/\Earth\Continent\America~South\Suriname\Districts~SurinamePara.secret.md)
 
