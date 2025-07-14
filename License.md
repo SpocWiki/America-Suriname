@@ -113,15 +113,17 @@ Creative Commons may be contacted at <http://creativecommons.org/>.
 
 ## Confidential Links & Embeds: 
 
-### [License.public](/_public/\Earth\Continent\America~South\SurinameLicense.public.md) 
+### [License](/_Standards/Earth/Continent/America~South/Suriname/License.md) 
 
-### [License.internal](/_internal/\Earth\Continent\America~South\SurinameLicense.internal.md) 
+### [License.public](/_public/Earth/Continent/America~South/Suriname/License.public.md) 
 
-### [License.protect](/_protect/\Earth\Continent\America~South\SurinameLicense.protect.md) 
+### [License.internal](/_internal/Earth/Continent/America~South/Suriname/License.internal.md) 
 
-### [License.private](/_private/\Earth\Continent\America~South\SurinameLicense.private.md) 
+### [License.protect](/_protect/Earth/Continent/America~South/Suriname/License.protect.md) 
 
-### [License.personal](/_personal/\Earth\Continent\America~South\SurinameLicense.personal.md) 
+### [License.private](/_private/Earth/Continent/America~South/Suriname/License.private.md) 
 
-### [License.secret](/_secret/\Earth\Continent\America~South\SurinameLicense.secret.md)
+### [License.personal](/_personal/Earth/Continent/America~South/Suriname/License.personal.md) 
+
+### [License.secret](/_secret/Earth/Continent/America~South/Suriname/License.secret.md)
 

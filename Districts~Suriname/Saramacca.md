@@ -41,15 +41,17 @@ markerFolder: ./Saramacca/
 
 ## Confidential Links & Embeds: 
 
-### [Saramacca.public](/_public/\Earth\Continent\America~South\Suriname\Districts~SurinameSaramacca.public.md) 
+### [Saramacca](/_Standards/Earth/Continent/America~South/Suriname/Districts~Suriname/Saramacca.md) 
 
-### [Saramacca.internal](/_internal/\Earth\Continent\America~South\Suriname\Districts~SurinameSaramacca.internal.md) 
+### [Saramacca.public](/_public/Earth/Continent/America~South/Suriname/Districts~Suriname/Saramacca.public.md) 
 
-### [Saramacca.protect](/_protect/\Earth\Continent\America~South\Suriname\Districts~SurinameSaramacca.protect.md) 
+### [Saramacca.internal](/_internal/Earth/Continent/America~South/Suriname/Districts~Suriname/Saramacca.internal.md) 
 
-### [Saramacca.private](/_private/\Earth\Continent\America~South\Suriname\Districts~SurinameSaramacca.private.md) 
+### [Saramacca.protect](/_protect/Earth/Continent/America~South/Suriname/Districts~Suriname/Saramacca.protect.md) 
 
-### [Saramacca.personal](/_personal/\Earth\Continent\America~South\Suriname\Districts~SurinameSaramacca.personal.md) 
+### [Saramacca.private](/_private/Earth/Continent/America~South/Suriname/Districts~Suriname/Saramacca.private.md) 
 
-### [Saramacca.secret](/_secret/\Earth\Continent\America~South\Suriname\Districts~SurinameSaramacca.secret.md)
+### [Saramacca.personal](/_personal/Earth/Continent/America~South/Suriname/Districts~Suriname/Saramacca.personal.md) 
+
+### [Saramacca.secret](/_secret/Earth/Continent/America~South/Suriname/Districts~Suriname/Saramacca.secret.md)
 

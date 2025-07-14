@@ -41,15 +41,17 @@ markerFolder: ./Wanica/
 
 ## Confidential Links & Embeds: 
 
-### [Wanica.public](/_public/\Earth\Continent\America~South\Suriname\Districts~SurinameWanica.public.md) 
+### [Wanica](/_Standards/Earth/Continent/America~South/Suriname/Districts~Suriname/Wanica.md) 
 
-### [Wanica.internal](/_internal/\Earth\Continent\America~South\Suriname\Districts~SurinameWanica.internal.md) 
+### [Wanica.public](/_public/Earth/Continent/America~South/Suriname/Districts~Suriname/Wanica.public.md) 
 
-### [Wanica.protect](/_protect/\Earth\Continent\America~South\Suriname\Districts~SurinameWanica.protect.md) 
+### [Wanica.internal](/_internal/Earth/Continent/America~South/Suriname/Districts~Suriname/Wanica.internal.md) 
 
-### [Wanica.private](/_private/\Earth\Continent\America~South\Suriname\Districts~SurinameWanica.private.md) 
+### [Wanica.protect](/_protect/Earth/Continent/America~South/Suriname/Districts~Suriname/Wanica.protect.md) 
 
-### [Wanica.personal](/_personal/\Earth\Continent\America~South\Suriname\Districts~SurinameWanica.personal.md) 
+### [Wanica.private](/_private/Earth/Continent/America~South/Suriname/Districts~Suriname/Wanica.private.md) 
 
-### [Wanica.secret](/_secret/\Earth\Continent\America~South\Suriname\Districts~SurinameWanica.secret.md)
+### [Wanica.personal](/_personal/Earth/Continent/America~South/Suriname/Districts~Suriname/Wanica.personal.md) 
+
+### [Wanica.secret](/_secret/Earth/Continent/America~South/Suriname/Districts~Suriname/Wanica.secret.md)
 

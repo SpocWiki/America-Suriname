@@ -41,15 +41,17 @@ markerFolder: ./Paramaribo/
 
 ## Confidential Links & Embeds: 
 
-### [Paramaribo.public](/_public/\Earth\Continent\America~South\Suriname\Districts~SurinameParamaribo.public.md) 
+### [Paramaribo](/_Standards/Earth/Continent/America~South/Suriname/Districts~Suriname/Paramaribo.md) 
 
-### [Paramaribo.internal](/_internal/\Earth\Continent\America~South\Suriname\Districts~SurinameParamaribo.internal.md) 
+### [Paramaribo.public](/_public/Earth/Continent/America~South/Suriname/Districts~Suriname/Paramaribo.public.md) 
 
-### [Paramaribo.protect](/_protect/\Earth\Continent\America~South\Suriname\Districts~SurinameParamaribo.protect.md) 
+### [Paramaribo.internal](/_internal/Earth/Continent/America~South/Suriname/Districts~Suriname/Paramaribo.internal.md) 
 
-### [Paramaribo.private](/_private/\Earth\Continent\America~South\Suriname\Districts~SurinameParamaribo.private.md) 
+### [Paramaribo.protect](/_protect/Earth/Continent/America~South/Suriname/Districts~Suriname/Paramaribo.protect.md) 
 
-### [Paramaribo.personal](/_personal/\Earth\Continent\America~South\Suriname\Districts~SurinameParamaribo.personal.md) 
+### [Paramaribo.private](/_private/Earth/Continent/America~South/Suriname/Districts~Suriname/Paramaribo.private.md) 
 
-### [Paramaribo.secret](/_secret/\Earth\Continent\America~South\Suriname\Districts~SurinameParamaribo.secret.md)
+### [Paramaribo.personal](/_personal/Earth/Continent/America~South/Suriname/Districts~Suriname/Paramaribo.personal.md) 
+
+### [Paramaribo.secret](/_secret/Earth/Continent/America~South/Suriname/Districts~Suriname/Paramaribo.secret.md)
 

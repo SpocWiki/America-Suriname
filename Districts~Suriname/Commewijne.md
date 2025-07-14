@@ -41,15 +41,17 @@ markerFolder: ./Commewijne/
 
 ## Confidential Links & Embeds: 
 
-### [Commewijne.public](/_public/\Earth\Continent\America~South\Suriname\Districts~SurinameCommewijne.public.md) 
+### [Commewijne](/_Standards/Earth/Continent/America~South/Suriname/Districts~Suriname/Commewijne.md) 
 
-### [Commewijne.internal](/_internal/\Earth\Continent\America~South\Suriname\Districts~SurinameCommewijne.internal.md) 
+### [Commewijne.public](/_public/Earth/Continent/America~South/Suriname/Districts~Suriname/Commewijne.public.md) 
 
-### [Commewijne.protect](/_protect/\Earth\Continent\America~South\Suriname\Districts~SurinameCommewijne.protect.md) 
+### [Commewijne.internal](/_internal/Earth/Continent/America~South/Suriname/Districts~Suriname/Commewijne.internal.md) 
 
-### [Commewijne.private](/_private/\Earth\Continent\America~South\Suriname\Districts~SurinameCommewijne.private.md) 
+### [Commewijne.protect](/_protect/Earth/Continent/America~South/Suriname/Districts~Suriname/Commewijne.protect.md) 
 
-### [Commewijne.personal](/_personal/\Earth\Continent\America~South\Suriname\Districts~SurinameCommewijne.personal.md) 
+### [Commewijne.private](/_private/Earth/Continent/America~South/Suriname/Districts~Suriname/Commewijne.private.md) 
 
-### [Commewijne.secret](/_secret/\Earth\Continent\America~South\Suriname\Districts~SurinameCommewijne.secret.md)
+### [Commewijne.personal](/_personal/Earth/Continent/America~South/Suriname/Districts~Suriname/Commewijne.personal.md) 
+
+### [Commewijne.secret](/_secret/Earth/Continent/America~South/Suriname/Districts~Suriname/Commewijne.secret.md)
 

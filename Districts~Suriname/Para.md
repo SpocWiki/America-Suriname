@@ -41,15 +41,17 @@ markerFolder: ./Para/
 
 ## Confidential Links & Embeds: 
 
-### [Para.public](/_public/\Earth\Continent\America~South\Suriname\Districts~SurinamePara.public.md) 
+### [Para](/_Standards/Earth/Continent/America~South/Suriname/Districts~Suriname/Para.md) 
 
-### [Para.internal](/_internal/\Earth\Continent\America~South\Suriname\Districts~SurinamePara.internal.md) 
+### [Para.public](/_public/Earth/Continent/America~South/Suriname/Districts~Suriname/Para.public.md) 
 
-### [Para.protect](/_protect/\Earth\Continent\America~South\Suriname\Districts~SurinamePara.protect.md) 
+### [Para.internal](/_internal/Earth/Continent/America~South/Suriname/Districts~Suriname/Para.internal.md) 
 
-### [Para.private](/_private/\Earth\Continent\America~South\Suriname\Districts~SurinamePara.private.md) 
+### [Para.protect](/_protect/Earth/Continent/America~South/Suriname/Districts~Suriname/Para.protect.md) 
 
-### [Para.personal](/_personal/\Earth\Continent\America~South\Suriname\Districts~SurinamePara.personal.md) 
+### [Para.private](/_private/Earth/Continent/America~South/Suriname/Districts~Suriname/Para.private.md) 
 
-### [Para.secret](/_secret/\Earth\Continent\America~South\Suriname\Districts~SurinamePara.secret.md)
+### [Para.personal](/_personal/Earth/Continent/America~South/Suriname/Districts~Suriname/Para.personal.md) 
+
+### [Para.secret](/_secret/Earth/Continent/America~South/Suriname/Districts~Suriname/Para.secret.md)
 

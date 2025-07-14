@@ -41,15 +41,17 @@ markerFolder: ./Nickerie/
 
 ## Confidential Links & Embeds: 
 
-### [Nickerie.public](/_public/\Earth\Continent\America~South\Suriname\Districts~SurinameNickerie.public.md) 
+### [Nickerie](/_Standards/Earth/Continent/America~South/Suriname/Districts~Suriname/Nickerie.md) 
 
-### [Nickerie.internal](/_internal/\Earth\Continent\America~South\Suriname\Districts~SurinameNickerie.internal.md) 
+### [Nickerie.public](/_public/Earth/Continent/America~South/Suriname/Districts~Suriname/Nickerie.public.md) 
 
-### [Nickerie.protect](/_protect/\Earth\Continent\America~South\Suriname\Districts~SurinameNickerie.protect.md) 
+### [Nickerie.internal](/_internal/Earth/Continent/America~South/Suriname/Districts~Suriname/Nickerie.internal.md) 
 
-### [Nickerie.private](/_private/\Earth\Continent\America~South\Suriname\Districts~SurinameNickerie.private.md) 
+### [Nickerie.protect](/_protect/Earth/Continent/America~South/Suriname/Districts~Suriname/Nickerie.protect.md) 
 
-### [Nickerie.personal](/_personal/\Earth\Continent\America~South\Suriname\Districts~SurinameNickerie.personal.md) 
+### [Nickerie.private](/_private/Earth/Continent/America~South/Suriname/Districts~Suriname/Nickerie.private.md) 
 
-### [Nickerie.secret](/_secret/\Earth\Continent\America~South\Suriname\Districts~SurinameNickerie.secret.md)
+### [Nickerie.personal](/_personal/Earth/Continent/America~South/Suriname/Districts~Suriname/Nickerie.personal.md) 
+
+### [Nickerie.secret](/_secret/Earth/Continent/America~South/Suriname/Districts~Suriname/Nickerie.secret.md)
 

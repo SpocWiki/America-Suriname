@@ -41,15 +41,17 @@ markerFolder: ./Sipaliwini/
 
 ## Confidential Links & Embeds: 
 
-### [Sipaliwini.public](/_public/\Earth\Continent\America~South\Suriname\Districts~SurinameSipaliwini.public.md) 
+### [Sipaliwini](/_Standards/Earth/Continent/America~South/Suriname/Districts~Suriname/Sipaliwini.md) 
 
-### [Sipaliwini.internal](/_internal/\Earth\Continent\America~South\Suriname\Districts~SurinameSipaliwini.internal.md) 
+### [Sipaliwini.public](/_public/Earth/Continent/America~South/Suriname/Districts~Suriname/Sipaliwini.public.md) 
 
-### [Sipaliwini.protect](/_protect/\Earth\Continent\America~South\Suriname\Districts~SurinameSipaliwini.protect.md) 
+### [Sipaliwini.internal](/_internal/Earth/Continent/America~South/Suriname/Districts~Suriname/Sipaliwini.internal.md) 
 
-### [Sipaliwini.private](/_private/\Earth\Continent\America~South\Suriname\Districts~SurinameSipaliwini.private.md) 
+### [Sipaliwini.protect](/_protect/Earth/Continent/America~South/Suriname/Districts~Suriname/Sipaliwini.protect.md) 
 
-### [Sipaliwini.personal](/_personal/\Earth\Continent\America~South\Suriname\Districts~SurinameSipaliwini.personal.md) 
+### [Sipaliwini.private](/_private/Earth/Continent/America~South/Suriname/Districts~Suriname/Sipaliwini.private.md) 
 
-### [Sipaliwini.secret](/_secret/\Earth\Continent\America~South\Suriname\Districts~SurinameSipaliwini.secret.md)
+### [Sipaliwini.personal](/_personal/Earth/Continent/America~South/Suriname/Districts~Suriname/Sipaliwini.personal.md) 
+
+### [Sipaliwini.secret](/_secret/Earth/Continent/America~South/Suriname/Districts~Suriname/Sipaliwini.secret.md)
 

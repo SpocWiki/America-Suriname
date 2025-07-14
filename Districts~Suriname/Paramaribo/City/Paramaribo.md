@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Paramaribo.public](/_public/\Earth\Continent\America~South\Suriname\Districts~Suriname\Paramaribo\CityParamaribo.public.md) 
+### [Paramaribo](/_Standards/Earth/Continent/America~South/Suriname/Districts~Suriname/Paramaribo/City/Paramaribo.md) 
 
-### [Paramaribo.internal](/_internal/\Earth\Continent\America~South\Suriname\Districts~Suriname\Paramaribo\CityParamaribo.internal.md) 
+### [Paramaribo.public](/_public/Earth/Continent/America~South/Suriname/Districts~Suriname/Paramaribo/City/Paramaribo.public.md) 
 
-### [Paramaribo.protect](/_protect/\Earth\Continent\America~South\Suriname\Districts~Suriname\Paramaribo\CityParamaribo.protect.md) 
+### [Paramaribo.internal](/_internal/Earth/Continent/America~South/Suriname/Districts~Suriname/Paramaribo/City/Paramaribo.internal.md) 
 
-### [Paramaribo.private](/_private/\Earth\Continent\America~South\Suriname\Districts~Suriname\Paramaribo\CityParamaribo.private.md) 
+### [Paramaribo.protect](/_protect/Earth/Continent/America~South/Suriname/Districts~Suriname/Paramaribo/City/Paramaribo.protect.md) 
 
-### [Paramaribo.personal](/_personal/\Earth\Continent\America~South\Suriname\Districts~Suriname\Paramaribo\CityParamaribo.personal.md) 
+### [Paramaribo.private](/_private/Earth/Continent/America~South/Suriname/Districts~Suriname/Paramaribo/City/Paramaribo.private.md) 
 
-### [Paramaribo.secret](/_secret/\Earth\Continent\America~South\Suriname\Districts~Suriname\Paramaribo\CityParamaribo.secret.md)
+### [Paramaribo.personal](/_personal/Earth/Continent/America~South/Suriname/Districts~Suriname/Paramaribo/City/Paramaribo.personal.md) 
+
+### [Paramaribo.secret](/_secret/Earth/Continent/America~South/Suriname/Districts~Suriname/Paramaribo/City/Paramaribo.secret.md)
 

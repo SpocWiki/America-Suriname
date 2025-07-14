@@ -41,15 +41,17 @@ markerFolder: ./Coronie/
 
 ## Confidential Links & Embeds: 
 
-### [Coronie.public](/_public/\Earth\Continent\America~South\Suriname\Districts~SurinameCoronie.public.md) 
+### [Coronie](/_Standards/Earth/Continent/America~South/Suriname/Districts~Suriname/Coronie.md) 
 
-### [Coronie.internal](/_internal/\Earth\Continent\America~South\Suriname\Districts~SurinameCoronie.internal.md) 
+### [Coronie.public](/_public/Earth/Continent/America~South/Suriname/Districts~Suriname/Coronie.public.md) 
 
-### [Coronie.protect](/_protect/\Earth\Continent\America~South\Suriname\Districts~SurinameCoronie.protect.md) 
+### [Coronie.internal](/_internal/Earth/Continent/America~South/Suriname/Districts~Suriname/Coronie.internal.md) 
 
-### [Coronie.private](/_private/\Earth\Continent\America~South\Suriname\Districts~SurinameCoronie.private.md) 
+### [Coronie.protect](/_protect/Earth/Continent/America~South/Suriname/Districts~Suriname/Coronie.protect.md) 
 
-### [Coronie.personal](/_personal/\Earth\Continent\America~South\Suriname\Districts~SurinameCoronie.personal.md) 
+### [Coronie.private](/_private/Earth/Continent/America~South/Suriname/Districts~Suriname/Coronie.private.md) 
 
-### [Coronie.secret](/_secret/\Earth\Continent\America~South\Suriname\Districts~SurinameCoronie.secret.md)
+### [Coronie.personal](/_personal/Earth/Continent/America~South/Suriname/Districts~Suriname/Coronie.personal.md) 
+
+### [Coronie.secret](/_secret/Earth/Continent/America~South/Suriname/Districts~Suriname/Coronie.secret.md)
 

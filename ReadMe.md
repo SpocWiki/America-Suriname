@@ -137,15 +137,17 @@ Capital :: [[Suriname/Counties/Paramaribo/City/Paramaribo]]
 
 ## Confidential Links & Embeds: 
 
-### [ReadMe.public](/_public/\Earth\Continent\America~South\SurinameReadMe.public.md) 
+### [ReadMe](/_Standards/Earth/Continent/America~South/Suriname/ReadMe.md) 
 
-### [ReadMe.internal](/_internal/\Earth\Continent\America~South\SurinameReadMe.internal.md) 
+### [ReadMe.public](/_public/Earth/Continent/America~South/Suriname/ReadMe.public.md) 
 
-### [ReadMe.protect](/_protect/\Earth\Continent\America~South\SurinameReadMe.protect.md) 
+### [ReadMe.internal](/_internal/Earth/Continent/America~South/Suriname/ReadMe.internal.md) 
 
-### [ReadMe.private](/_private/\Earth\Continent\America~South\SurinameReadMe.private.md) 
+### [ReadMe.protect](/_protect/Earth/Continent/America~South/Suriname/ReadMe.protect.md) 
 
-### [ReadMe.personal](/_personal/\Earth\Continent\America~South\SurinameReadMe.personal.md) 
+### [ReadMe.private](/_private/Earth/Continent/America~South/Suriname/ReadMe.private.md) 
 
-### [ReadMe.secret](/_secret/\Earth\Continent\America~South\SurinameReadMe.secret.md)
+### [ReadMe.personal](/_personal/Earth/Continent/America~South/Suriname/ReadMe.personal.md) 
+
+### [ReadMe.secret](/_secret/Earth/Continent/America~South/Suriname/ReadMe.secret.md)
 
