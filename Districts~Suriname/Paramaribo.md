@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Paramaribo
+has_id_wikidata: Q3001
 location:
   - 5.8
   - -55.2
@@ -12,8 +15,6 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Paramaribo
 Languages:
   - de
 cssclasses:
@@ -26,7 +27,11 @@ publishDate:
 expiryDate:
 ---
 
-# Paramaribo
+# [[Paramaribo]]  
+
+#is_/same_as :: [[../../../../../../WikiData/WD~Paramaribo,3001|WD~Paramaribo,3001]] 
+
+## #has_/map 
 
 ```leaflet
 id: Paramaribo
@@ -37,6 +42,16 @@ geojsonFolder: ./Paramaribo/
 markerFolder: ./Paramaribo/
 ```
 
+## #has_/text_of_/abstract 
+
+> **Paramaribo** is the capital and largest city of Suriname, 
+> located on the banks of the Suriname River in the Paramaribo District. 
+> 
+> Paramaribo has a population of roughly 241,000 people (2012 census), 
+> almost half of Suriname's population. 
+> The historic inner city of Paramaribo has been a UNESCO World Heritage Site since 2002.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Paramaribo) 
 
 ## Confidential Links & Embeds: 
 
