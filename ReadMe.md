@@ -43,15 +43,13 @@ dv_ISO4217-currency_country_name: SURINAME
 dv_Telephone: 597
 dv_Global: true
 dv_Global_Name: World
-dv_name: Suriname
-dv_name-en:
-  - Suriname
-  - Suriname
-dv_name-es: Suriname
-dv_name-fr: Suriname
-dv_name-cn: 苏里南
-dv_name-ar: سورينام
-dv_name-ru: Суринам
+dv_has_name_: Suriname
+dv_has_name_en: Suriname
+dv_has_name_es: Suriname
+dv_has_name_fr: Suriname
+dv_has_name_cn: 苏里南
+dv_has_name_ar: سورينام
+dv_has_name_ru: Суринам
 dv_CLDR_display_name: Suriname
 dv_UNTERM_English: Suriname
 dv_UNTERM_English_Formal: the Republic of Suriname
@@ -90,7 +88,7 @@ dv_Small_Island_Developing_States: x
 dv_ISO3166-1-numeric: 740
 dv_ISO2: SR
 dv_ISO3: SUR
-dv_name-de: Surinam
+dv_has_name_de: Surinam
 dv_Area-Total: 163265
 dv_Area-Land: 156000
 dv_Continent: "[[South-America]]"
@@ -116,12 +114,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name` 
 
 name = `=this.dv_name` 
-[	name-en	 :: Suriname ] 
-name-es = `=this.dv_name-es` 
-name-fr = `=this.dv_name-fr` 
-name-cn = `=this.dv_name-cn` 
-name-ar = `=this.dv_name-ar` 
-name-ru = `=this.dv_name-ru` 
+[	has_name_en	 :: Suriname ] 
+has_name_es = `=this.dv_has_name_es` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_cn = `=this.dv_has_name_cn` 
+has_name_ar = `=this.dv_has_name_ar` 
+has_name_ru = `=this.dv_has_name_ru` 
 
 CLDR_display_name = `=this.dv_CLDR_display_name` 
 
@@ -181,8 +179,8 @@ geojsonFolder: .//
 markerFolder: ./
 ```
 
-[name-en::Suriname] 
-name-de = `=this.dv_name-de` 
+[has_name_en::Suriname] 
+has_name_de = `=this.dv_has_name_de` 
 
 ![[Mexico/Coat_of_arms_of_Mexico.svg|350]] 
 

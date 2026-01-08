@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -55.17
 dv_has_place_latitude: 5.86
-dv_name: Paramaribo
+dv_has_name_: Paramaribo
 dv_Country: "[[../../../../Suriname]]"
 ---
 #is_a_/Place  
