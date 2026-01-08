@@ -40,17 +40,17 @@ markerFolder: ./Coronie/
 
 ## Confidential Links & Embeds: 
 
-### [Coronie](/_Standards/Earth/Continent/America~South/Suriname/Districts~Suriname/Coronie.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Guianas/Suriname/Districts~Suriname/Coronie|Coronie]] 
 
-### [Coronie.public](/_public/Earth/Continent/America~South/Suriname/Districts~Suriname/Coronie.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Guianas/Suriname/Districts~Suriname/Coronie.public|Coronie.public]] 
 
-### [Coronie.internal](/_internal/Earth/Continent/America~South/Suriname/Districts~Suriname/Coronie.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Guianas/Suriname/Districts~Suriname/Coronie.internal|Coronie.internal]] 
 
-### [Coronie.protect](/_protect/Earth/Continent/America~South/Suriname/Districts~Suriname/Coronie.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Guianas/Suriname/Districts~Suriname/Coronie.protect|Coronie.protect]] 
 
-### [Coronie.private](/_private/Earth/Continent/America~South/Suriname/Districts~Suriname/Coronie.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Guianas/Suriname/Districts~Suriname/Coronie.private|Coronie.private]] 
 
-### [Coronie.personal](/_personal/Earth/Continent/America~South/Suriname/Districts~Suriname/Coronie.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Guianas/Suriname/Districts~Suriname/Coronie.personal|Coronie.personal]] 
 
-### [Coronie.secret](/_secret/Earth/Continent/America~South/Suriname/Districts~Suriname/Coronie.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Guianas/Suriname/Districts~Suriname/Coronie.secret|Coronie.secret]] 
 

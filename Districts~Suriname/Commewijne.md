@@ -40,17 +40,17 @@ markerFolder: ./Commewijne/
 
 ## Confidential Links & Embeds: 
 
-### [Commewijne](/_Standards/Earth/Continent/America~South/Suriname/Districts~Suriname/Commewijne.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Guianas/Suriname/Districts~Suriname/Commewijne|Commewijne]] 
 
-### [Commewijne.public](/_public/Earth/Continent/America~South/Suriname/Districts~Suriname/Commewijne.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Guianas/Suriname/Districts~Suriname/Commewijne.public|Commewijne.public]] 
 
-### [Commewijne.internal](/_internal/Earth/Continent/America~South/Suriname/Districts~Suriname/Commewijne.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Guianas/Suriname/Districts~Suriname/Commewijne.internal|Commewijne.internal]] 
 
-### [Commewijne.protect](/_protect/Earth/Continent/America~South/Suriname/Districts~Suriname/Commewijne.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Guianas/Suriname/Districts~Suriname/Commewijne.protect|Commewijne.protect]] 
 
-### [Commewijne.private](/_private/Earth/Continent/America~South/Suriname/Districts~Suriname/Commewijne.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Guianas/Suriname/Districts~Suriname/Commewijne.private|Commewijne.private]] 
 
-### [Commewijne.personal](/_personal/Earth/Continent/America~South/Suriname/Districts~Suriname/Commewijne.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Guianas/Suriname/Districts~Suriname/Commewijne.personal|Commewijne.personal]] 
 
-### [Commewijne.secret](/_secret/Earth/Continent/America~South/Suriname/Districts~Suriname/Commewijne.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Guianas/Suriname/Districts~Suriname/Commewijne.secret|Commewijne.secret]] 
 

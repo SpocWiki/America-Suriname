@@ -40,17 +40,17 @@ markerFolder: ./Nickerie/
 
 ## Confidential Links & Embeds: 
 
-### [Nickerie](/_Standards/Earth/Continent/America~South/Suriname/Districts~Suriname/Nickerie.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Guianas/Suriname/Districts~Suriname/Nickerie|Nickerie]] 
 
-### [Nickerie.public](/_public/Earth/Continent/America~South/Suriname/Districts~Suriname/Nickerie.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Guianas/Suriname/Districts~Suriname/Nickerie.public|Nickerie.public]] 
 
-### [Nickerie.internal](/_internal/Earth/Continent/America~South/Suriname/Districts~Suriname/Nickerie.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Guianas/Suriname/Districts~Suriname/Nickerie.internal|Nickerie.internal]] 
 
-### [Nickerie.protect](/_protect/Earth/Continent/America~South/Suriname/Districts~Suriname/Nickerie.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Guianas/Suriname/Districts~Suriname/Nickerie.protect|Nickerie.protect]] 
 
-### [Nickerie.private](/_private/Earth/Continent/America~South/Suriname/Districts~Suriname/Nickerie.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Guianas/Suriname/Districts~Suriname/Nickerie.private|Nickerie.private]] 
 
-### [Nickerie.personal](/_personal/Earth/Continent/America~South/Suriname/Districts~Suriname/Nickerie.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Guianas/Suriname/Districts~Suriname/Nickerie.personal|Nickerie.personal]] 
 
-### [Nickerie.secret](/_secret/Earth/Continent/America~South/Suriname/Districts~Suriname/Nickerie.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Guianas/Suriname/Districts~Suriname/Nickerie.secret|Nickerie.secret]] 
 

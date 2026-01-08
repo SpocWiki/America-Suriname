@@ -113,17 +113,17 @@ Creative Commons may be contacted at <http://creativecommons.org/>.
 
 ## Confidential Links & Embeds: 
 
-### [License](/_Standards/Earth/Continent/America~South/Suriname/License.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Guianas/Suriname/License|License]] 
 
-### [License.public](/_public/Earth/Continent/America~South/Suriname/License.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Guianas/Suriname/License.public|License.public]] 
 
-### [License.internal](/_internal/Earth/Continent/America~South/Suriname/License.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Guianas/Suriname/License.internal|License.internal]] 
 
-### [License.protect](/_protect/Earth/Continent/America~South/Suriname/License.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Guianas/Suriname/License.protect|License.protect]] 
 
-### [License.private](/_private/Earth/Continent/America~South/Suriname/License.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Guianas/Suriname/License.private|License.private]] 
 
-### [License.personal](/_personal/Earth/Continent/America~South/Suriname/License.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Guianas/Suriname/License.personal|License.personal]] 
 
-### [License.secret](/_secret/Earth/Continent/America~South/Suriname/License.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Guianas/Suriname/License.secret|License.secret]] 
 

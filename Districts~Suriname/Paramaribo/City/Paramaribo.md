@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33244
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -55.17
+dv_has_place_latitude: 5.86
+dv_name: Paramaribo
+dv_Country: "[[../../../../Suriname]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-55.17] 
-[has_place_latitude::5.86] 
-[name::Paramaribo] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../Suriname]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Paramaribo](/_Standards/Earth/Continent/America~South/Suriname/Districts~Suriname/Paramaribo/City/Paramaribo.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Guianas/Suriname/Districts~Suriname/Paramaribo/City/Paramaribo|Paramaribo]] 
 
-### [Paramaribo.public](/_public/Earth/Continent/America~South/Suriname/Districts~Suriname/Paramaribo/City/Paramaribo.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Guianas/Suriname/Districts~Suriname/Paramaribo/City/Paramaribo.public|Paramaribo.public]] 
 
-### [Paramaribo.internal](/_internal/Earth/Continent/America~South/Suriname/Districts~Suriname/Paramaribo/City/Paramaribo.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Guianas/Suriname/Districts~Suriname/Paramaribo/City/Paramaribo.internal|Paramaribo.internal]] 
 
-### [Paramaribo.protect](/_protect/Earth/Continent/America~South/Suriname/Districts~Suriname/Paramaribo/City/Paramaribo.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Guianas/Suriname/Districts~Suriname/Paramaribo/City/Paramaribo.protect|Paramaribo.protect]] 
 
-### [Paramaribo.private](/_private/Earth/Continent/America~South/Suriname/Districts~Suriname/Paramaribo/City/Paramaribo.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Guianas/Suriname/Districts~Suriname/Paramaribo/City/Paramaribo.private|Paramaribo.private]] 
 
-### [Paramaribo.personal](/_personal/Earth/Continent/America~South/Suriname/Districts~Suriname/Paramaribo/City/Paramaribo.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Guianas/Suriname/Districts~Suriname/Paramaribo/City/Paramaribo.personal|Paramaribo.personal]] 
 
-### [Paramaribo.secret](/_secret/Earth/Continent/America~South/Suriname/Districts~Suriname/Paramaribo/City/Paramaribo.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Guianas/Suriname/Districts~Suriname/Paramaribo/City/Paramaribo.secret|Paramaribo.secret]] 
 

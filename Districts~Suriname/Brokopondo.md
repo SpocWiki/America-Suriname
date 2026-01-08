@@ -40,17 +40,17 @@ markerFolder: ./Brokopondo/
 
 ## Confidential Links & Embeds: 
 
-### [Brokopondo](/_Standards/Earth/Continent/America~South/Suriname/Districts~Suriname/Brokopondo.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Guianas/Suriname/Districts~Suriname/Brokopondo|Brokopondo]] 
 
-### [Brokopondo.public](/_public/Earth/Continent/America~South/Suriname/Districts~Suriname/Brokopondo.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Guianas/Suriname/Districts~Suriname/Brokopondo.public|Brokopondo.public]] 
 
-### [Brokopondo.internal](/_internal/Earth/Continent/America~South/Suriname/Districts~Suriname/Brokopondo.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Guianas/Suriname/Districts~Suriname/Brokopondo.internal|Brokopondo.internal]] 
 
-### [Brokopondo.protect](/_protect/Earth/Continent/America~South/Suriname/Districts~Suriname/Brokopondo.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Guianas/Suriname/Districts~Suriname/Brokopondo.protect|Brokopondo.protect]] 
 
-### [Brokopondo.private](/_private/Earth/Continent/America~South/Suriname/Districts~Suriname/Brokopondo.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Guianas/Suriname/Districts~Suriname/Brokopondo.private|Brokopondo.private]] 
 
-### [Brokopondo.personal](/_personal/Earth/Continent/America~South/Suriname/Districts~Suriname/Brokopondo.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Guianas/Suriname/Districts~Suriname/Brokopondo.personal|Brokopondo.personal]] 
 
-### [Brokopondo.secret](/_secret/Earth/Continent/America~South/Suriname/Districts~Suriname/Brokopondo.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Guianas/Suriname/Districts~Suriname/Brokopondo.secret|Brokopondo.secret]] 
 

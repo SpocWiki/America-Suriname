@@ -40,17 +40,17 @@ markerFolder: ./Marowijne/
 
 ## Confidential Links & Embeds: 
 
-### [Marowijne](/_Standards/Earth/Continent/America~South/Suriname/Districts~Suriname/Marowijne.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Guianas/Suriname/Districts~Suriname/Marowijne|Marowijne]] 
 
-### [Marowijne.public](/_public/Earth/Continent/America~South/Suriname/Districts~Suriname/Marowijne.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Guianas/Suriname/Districts~Suriname/Marowijne.public|Marowijne.public]] 
 
-### [Marowijne.internal](/_internal/Earth/Continent/America~South/Suriname/Districts~Suriname/Marowijne.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Guianas/Suriname/Districts~Suriname/Marowijne.internal|Marowijne.internal]] 
 
-### [Marowijne.protect](/_protect/Earth/Continent/America~South/Suriname/Districts~Suriname/Marowijne.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Guianas/Suriname/Districts~Suriname/Marowijne.protect|Marowijne.protect]] 
 
-### [Marowijne.private](/_private/Earth/Continent/America~South/Suriname/Districts~Suriname/Marowijne.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Guianas/Suriname/Districts~Suriname/Marowijne.private|Marowijne.private]] 
 
-### [Marowijne.personal](/_personal/Earth/Continent/America~South/Suriname/Districts~Suriname/Marowijne.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Guianas/Suriname/Districts~Suriname/Marowijne.personal|Marowijne.personal]] 
 
-### [Marowijne.secret](/_secret/Earth/Continent/America~South/Suriname/Districts~Suriname/Marowijne.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Guianas/Suriname/Districts~Suriname/Marowijne.secret|Marowijne.secret]] 
 
