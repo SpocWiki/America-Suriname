@@ -410,7 +410,7 @@ dv_ISO2: SR
 dv_ISO3: SUR
 dv_is_:
   same_as:
-  - '[[../../../../WikiData/WD~Suriname,730|WD~Suriname,730]]'
+  - '[[../../../../../WikiData/WD~Suriname,730|WD~Suriname,730]]'
   - '[[/_Standards/Earth/Continent/America~South/Guianas/Suriname|Suriname]]'
   - '[[/_public/Earth/Continent/America~South/Guianas/Suriname.public|Suriname.public]]'
   - '[[/_internal/Earth/Continent/America~South/Guianas/Suriname.internal|Suriname.internal]]'
@@ -701,7 +701,7 @@ dv_has_place_longitude: -55.17
 dv_has_place_latitude: 5.86
 dv_developed_developing_countries: Developing
 dv_is_same_as:
-- '[[../../../../WikiData/WD~Suriname,730|WD~Suriname,730]]'
+- '[[../../../../../WikiData/WD~Suriname,730|WD~Suriname,730]]'
 - '[[/_Standards/Earth/Continent/America~South/Guianas/Suriname|Suriname]]'
 - '[[/_public/Earth/Continent/America~South/Guianas/Suriname.public|Suriname.public]]'
 - '[[/_internal/Earth/Continent/America~South/Guianas/Suriname.internal|Suriname.internal]]'
@@ -783,12 +783,12 @@ ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric`
 ISO2 = `=this.dv_ISO2`
 ISO3 = `=this.dv_ISO3` 
 
-#is_/same_as :: [[../../../../WikiData/WD~Suriname,730|WD~Suriname,730]]
+#is_/same_as :: [[../../../../../WikiData/WD~Suriname,730|WD~Suriname,730]]
 
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Suriname/ReadMe|ReadMe]] 
+[[ReadMe|ReadMe]] 
 
 
 ## #has_/map  
@@ -808,7 +808,7 @@ markerFile: [[Suriname]]
 
 ```leaflet
 id: Suriname_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+image: [[../../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]
@@ -829,17 +829,17 @@ darkMode: false
 [has_name_en::Suriname]
 has_name_de = `=this.dv_has_name_de`
 
-![[Mexico/Coat_of_arms_of_Mexico.svg|350]]
+![[../Mexico/Coat_of_arms_of_Mexico.svg|350]]
 
-![[../../../../_public/xLarge.public/National-Anthem/Anthem-Mexico.mp3|Anthem-Mexico.mp3]]
+![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Mexico.mp3|Anthem-Mexico.mp3]]
 
-![[Mexico/Flag_of_Mexico.svg|350]]
+![[../Mexico/Flag_of_Mexico.svg|350]]
 
 Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`
 VehicleCode = `=this.dv_VehicleCode`
-Capital :: [[Suriname/Counties/Paramaribo/City/Paramaribo|Paramaribo]]  
+Capital :: [[Counties/Paramaribo/City/Paramaribo|Paramaribo]]  
 Alcohol-l = `=this.dv_Alcohol-l`
 [Language-Id::]
 has_place_longitude = `=this.dv_has_place_longitude`
